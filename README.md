@@ -1,7 +1,7 @@
 # Rossmann Sales Prediction using Facebook Prophet
 
 ### Goal
-To predict future daily sales of Rossmann Stores given the historical sales data for 1,115 Stores of it using Facebook Prophet framework.
+To predict future daily sales of Rossmann Stores given the historical sales data of its Stores using Facebook Prophet framework.
 
 ### Data Description
 * We have two dataset for this study, one for Sales (the transactions recorded per day) and one for the Stores (information about the unique 1115 stores).
