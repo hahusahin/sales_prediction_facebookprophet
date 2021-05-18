@@ -23,6 +23,10 @@ To predict future daily sales of Rossmann Stores given the historical sales data
 
 And then plots the related components that we can interpret.
 
+### Project Files
+* store.csv, train.csv - data files
+* Sales_Prediction_FacebookProphet.ipynb - Project Notebook
+
 ### Libraries Used
 * pandas, numpy
 * matplotlib, seaborn
